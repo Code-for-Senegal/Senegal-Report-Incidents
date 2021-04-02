@@ -8,3 +8,6 @@
   
 ### Contribution 👷‍
   Pour contribuer dans ce projet, vous pouvez suivre cette démarche **comment contribuer** https://gist.github.com/MarcDiethelm/7303312
+
+### Besoin d'Aide
+  Si vous avez besoin d'aide vous pouvez m'envoyer un mailà l'adresse **diadjindiaye24@gmail.com**
