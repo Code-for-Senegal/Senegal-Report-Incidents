@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Senegal Report Incidents
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Objectif 🥅
+  La plateforme permet à un citoyen de signaler des incidents qui peuvent être (viols, aggressions, incendies,accidents, ...) dans le but d'informer/d'avertir les habitants qui sont dans cette localités.
 
-## Available Scripts
+### Utilité 💫
+  Permettre à nos autorités administratives de pouvoir connaitre les zones ou il y'a plus de danger par exemple de connaitre que dans telle zone **x** aggressions ont été enregistrées et pouvoir réagir.
+  
+### Contribution 👷‍
+  Ce projet est construit par d'incroyables bénévoles et vous pouvez en faire partie! Voici comment vous pouvez contribuer à ce projet en consultant ce fichier : https://github.com/Code-for-Senegal/.github/blob/main/CONTRIBUTING.md. Si vous souhaitez apporter des modifications à ce dépôt, veuillez d'abord faire un fork.
 
-In the project directory, you can run:
+Aidez-nous en testant ce projet. Si vous voyez quelque chose qui ne fonctionne pas tout à fait comme prévu, ouvrez un <a href="https://github.com/Code-for-Senegal/etat/issues">issue</a>. Assurez-vous de décrire en détail ce à quoi vous vous attendez et ce qui se passe réellement.
 
-### `npm start`
+Si vous souhaitez suggérer une nouvelle fonctionnalité, ouvrez un issue et marquez-le comme [Demande de fonctionnalité]. Veuillez préciser pourquoi vous pensez que cette fonctionnalité sera utile. Si vous le pouvez, veuillez inclure une description visuelle de ce à quoi vous aimeriez que l'interface utilisateur ressemble, si vous suggérez de nouveaux éléments d'interface utilisateur.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Comment débuté
+Pour démarrer le serveur de l'application de développement suivez les étapes suivantes : 
+<pre>
+   <code>
+    git clone https://github.com/Code-for-Senegal/Senegal-Report-Incidents.git
+    cd Senegal-Report-Incidents
+    npm install
+    npm start
+  </code>
+ </pre>
+ 
+### Documentation
+Ouvrir le navigateur à l'adrese http://localhost:3000 pour accéder à l'application
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Architecture de l'application
+  En cours....
+### A propos de Code for Senegal
+Nous sommes une communauté de bénévoles (développeurs, ux / ui, communications, data scientists, graphistes, devops, sécurité informatique et plus) qui travaillent bénévolement pour développer des solutions numériques pour résoudre des problèmes sociaux. #techforsocialgood. Si vous souhaitez en savoir plus sur nos projets, visitez notre site ou si vous souhaitez parler à l'un de nos collaborateurs, merci de nous envoyer un e-mail à contact@codeforsenegal.org.
+### License
+Ce projet est sous license **GNU General Public License v3.0**
+### Besoin d'Aide
+  Si vous avez besoin d'aide vous pouvez m'envoyer un mail à l'adresse **diadjindiaye24@gmail.com**
